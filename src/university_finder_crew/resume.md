@@ -1,16 +1,16 @@
-# Hasin Jawad Ali - Resume
+# Jawad - Resume
 
 ## Contact Information
-- **Phone**: +8801939381600
-- **Email**: alij85791@gmail.com
-- **LinkedIn**: [Jawad Ali](https://www.linkedin.com/in/jawad-ali-74aa92215/)
-- **GitHub**: [BIHS-2018-19-Cleaned](https://github.com/jami78/BIHS-2018-19-Cleaned-)
+- **Phone**: *******
+- **Email**: *****
+- **LinkedIn**: *******
+- **GitHub**: (https://github.com/jami78/)
   
 ## Education
 - **BBA in Technology Management**  
   **Islamic University of Technology**  
   2021 - Present  
-  **CGPA**: 3.78
+  **CGPA**: **
 
 ## Skills
 - Data Visualization
