@@ -27,8 +27,8 @@ cd university_finder_crew
 Create a .env file in the root directory.
 API Keys: You will need API keys for Groq and SerperDev.
 In the .env file, add the following:
-GROQ_API_KEY=your_groq_api_key
-SERPER_API_KEY=your_serper_api_key
+**GROQ_API_KEY=your_groq_api_key**
+**SERPER_API_KEY=your_serper_api_key**
 
 ### Resume File:
 
