@@ -28,8 +28,8 @@
 - Jupyter Notebook
 
 ## Work Experience
-- **Data Coach for the Program Management Director**  
-  **Security Compass, Toronto, Canada**  
+- **XYZ Role**  
+  **XYZ Company**  
   **Duration**: 02/2024 - Current  
   **Description**:  
   Provide data science, statistics, and business analytics coaching and mentorship to a student enrolled in the Kellogg-Schulich Executive MBA programme.
