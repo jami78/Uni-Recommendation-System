@@ -1,0 +1,42 @@
+job_identification_task:
+  description: >
+    Find the highest paying jobs in the international market by web search.
+  expected_output: >
+    A list of top 20-30 trending and high-paying jobs in the world
+
+skills_matching_task:
+  description: >
+    Analyze the students interests- {interests}, skills- {skills} and resume, matching them to the identified jobs from the Job Identifier Agent. Provide a list of top jobs that align with the students profile.
+  expected_output: >
+    A list of 5 high paying jobs identified by the Job Identifier that best match the students skills and interests 
+
+program_matching_task:
+  description: >
+    Identify universities in {countries} that offer programs preparing students for the matched jobs. Provide a list of relevant programs and universities along with estimated costs.
+  expected_output: >
+    A list of university programs that align with the top jobs identified with estimated costs.
+
+find_scholarships_task:
+  description: >
+    Research and provide a list of scholarships relevant to the user's academic profile, preferred countries, and programs.
+  expected_output: >
+    A list of scholarships of the selected universities with eligibility criteria, application deadlines, and award details.
+
+evaluate_financials_task:
+  description: >
+    Assess the user’s financial conditions- {financial conditions}, calculate living expenses for the target locations, and recommend feasible part-time job options.
+  expected_output: >
+    An assessment of financial feasibility, along with job recommendations in the target location that align with the user’s skills.
+
+improve_profile_task:
+  description: >
+    Analyze the user's profile and suggest improvements to increase chances of obtaining scholarships and admission.
+  expected_output: >
+    A list of recommendations for profile enhancement, such as suggested skills, certifications, and achievements.
+
+
+personalized_recommendation_task:
+  description: >
+   Provide personalized recommendations based on the work of the previous agents and adjust based on user feedback.
+  expected_output: >
+   Final personalized recommendation list based on user feedback.
