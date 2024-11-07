@@ -19,8 +19,9 @@ Personalized Recommendation Agent: Provides individual specific personalized rec
 Download groq, crewai, langachain and crewai_tools using pip.
 
 ### Clone the Repository:
---git clone https://github.com/jami78/Uni-Recommendation-System/
---cd university_finder_crew
+git clone https://github.com/jami78/Uni-Recommendation-System/
+
+cd university_finder_crew
 
 ### Environment Setup:
 
