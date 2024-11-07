@@ -26,23 +26,33 @@ cd university_finder_crew
 ### Environment Setup:
 
 Create a .env file in the root directory.
+
 API Keys: You will need API keys for Groq and SerperDev.
+
 In the .env file, add the following:
 **GROQ_API_KEY=your_groq_api_key**
+
 **SERPER_API_KEY=your_serper_api_key**
 
 ### Resume File:
 
 Place the resume file (for skills assessment) in the specified directories.
+
 Make sure the paths in src\university_finder_crew\crew.py match the locations of the file.
-Project Structure
+
+## Project Structure
 
 src/university_finder_crew/config/: Configuration files for defining agents and tasks.
+
 src/university_finder_crew/tools/: Custom tools for data processing and API calls.
+
 src/university_finder_crew/crew.py: Main CrewAI system file that sets up agents and tasks.
+
 src/university_finder_crew/main.py: Backend execution file to run the CrewAI system.
+
 readme.md: Project documentation.
-Important Note
+
+## Important Note
 
 This system relies on Groq and SerperDev APIs for functionality. Make sure you have valid API keys from these services and have added them to your environment variables in .env.
 
