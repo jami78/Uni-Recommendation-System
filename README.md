@@ -15,11 +15,10 @@ Profile Enhancement Agent: Provides suggestions to improve the user's profile fo
 Personalized Recommendation Agent: Provides individual specific personalized recommendations.
 
 ## Setup Instructions
+## Requirements
+Download groq, crewai, langachain and crewai_tools using pip.
 
 ### Clone the Repository:
-
-bash
-Copy code
 git clone https://github.com/jami78/Uni-Recommendation-System/
 cd university_finder_crew
 
@@ -28,8 +27,6 @@ cd university_finder_crew
 Create a .env file in the root directory.
 API Keys: You will need API keys for Groq and SerperDev.
 In the .env file, add the following:
-makefile
-Copy code
 GROQ_API_KEY=your_groq_api_key
 SERPER_API_KEY=your_serper_api_key
 
